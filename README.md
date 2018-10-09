@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Oct. 9, 2018
 
 ### Student Name:  
-(First and Last Name)
+Taylor Falcone
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is an expense calculator to calculate all of the percentages for a person's monthly expenses.
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use getElementById() method.
+2. How to perform simple calculations with JavaScript.
+3. Pushing things to local and remote repository.
 
 
 
